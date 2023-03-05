@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/mac-admin/Desktop/study_java/bin/main/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2749714879.index
+3361527972.index
+782051194.index
+1139986912.index
+3779143840.index
